@@ -23,14 +23,12 @@ export default function RootLayout({
       <meta property="og:image:type" content="image/png" />
       <meta property="og:image:width" content="1280" />
       <meta property="og:image:height" content="832" />
+      <meta property="og:site_name" content="Ideazura" />
       <meta
-        property="og:site_name"
-        content="Next.js + Notion — Waitlist Template"
+        property="og:title"
+        content="Ideazura — Capture Ideas, Take Action"
       />
-      <meta
-        property="og:url"
-        content="https://nextjs-notion-waitlist.vercel.app/"
-      />
+      <meta property="og:url" content="https://ideazura.com/" />
       <meta name="twitter:image" content="/twitter-image.png" />
       <meta name="twitter:image:type" content="image/png" />
       <meta name="twitter:image:width" content="1280" />
